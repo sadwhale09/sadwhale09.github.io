@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sad Whale</title>
+    <link>https://sadwhale.github.io/posts/</link>
+    <description>Recent content in Posts on Sad Whale</description>
+    <generator>Hugo -- gohugo.io</generator>
+      <language>en-us</language>
+      <lastBuildDate>Mon, 29 Jan 2024 14:59:09 +0100</lastBuildDate><atom:link href="https://sadwhale.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://sadwhale.github.io/posts/first-post/</link>
+      <pubDate>Mon, 29 Jan 2024 14:59:09 +0100</pubDate>
+
+      <guid>https://sadwhale.github.io/posts/first-post/</guid>
+      <description> The post about making a post Lang: bash Copy hugo new posts/first-post.md vi content/posts/first-post.md echo &amp;#34;test&amp;#34; &amp;gt; /dev/null Lang: html Copy &amp;lt;!doctype html&amp;gt; &amp;lt;html lang=&amp;#34;en&amp;#34;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;#34;utf-8&amp;#34;&amp;gt; &amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; Lang: go Copy fmt.Println(&amp;#34;lol xd&amp;#34;) Column1 Column2 Column3 Column4 Item1.1 Item2.1 Item3.1 Item4.1 Item1.2 Item2.2 Item3.2 Item4.2 </description>
+      <content>
+&lt;h1 id=&#34;the-post-about-making-a-post&#34;&gt;
+  The post about making a post
+  &lt;a href=&#34;#the-post-about-making-a-post&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h1&gt;
+
+&lt;div class=&#34;highlight-wrapper&#34;&gt;
+  &lt;div class=&#34;highlight-toolbar&#34;&gt;
+    &lt;span class=&#34;item&#34;&gt;
+      &lt;span class=&#34;label&#34;&gt;Lang:&lt;/span&gt;
+      &lt;span class=&#34;name&#34;&gt;bash&lt;/span&gt;
+    &lt;/span&gt;
+
+
+    &lt;button class=&#34;item right outline brighter hide js-btn-copy-code&#34;&gt;Copy&lt;/button&gt;
+  &lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo new posts/first-post.md
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;vi content/posts/first-post.md
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;test&amp;#34;&lt;/span&gt; &amp;gt; /dev/null&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&#34;highlight-wrapper&#34;&gt;
+  &lt;div class=&#34;highlight-toolbar&#34;&gt;
+    &lt;span class=&#34;item&#34;&gt;
+      &lt;span class=&#34;label&#34;&gt;Lang:&lt;/span&gt;
+      &lt;span class=&#34;name&#34;&gt;html&lt;/span&gt;
+    &lt;/span&gt;
+
+
+    &lt;button class=&#34;item right outline brighter hide js-btn-copy-code&#34;&gt;Copy&lt;/button&gt;
+  &lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;!doctype html&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;html&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;lang&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;head&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;meta&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;charset&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;&amp;gt;Example HTML5 Document&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;head&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;Test&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;html&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&#34;highlight-wrapper&#34;&gt;
+  &lt;div class=&#34;highlight-toolbar&#34;&gt;
+    &lt;span class=&#34;item&#34;&gt;
+      &lt;span class=&#34;label&#34;&gt;Lang:&lt;/span&gt;
+      &lt;span class=&#34;name&#34;&gt;go&lt;/span&gt;
+    &lt;/span&gt;
+
+
+    &lt;button class=&#34;item right outline brighter hide js-btn-copy-code&#34;&gt;Copy&lt;/button&gt;
+  &lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;fmt&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;Println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;lol xd&amp;#34;&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Column1&lt;/th&gt;
+&lt;th&gt;Column2&lt;/th&gt;
+&lt;th&gt;Column3&lt;/th&gt;
+&lt;th&gt;Column4&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Item1.1&lt;/td&gt;
+&lt;td&gt;Item2.1&lt;/td&gt;
+&lt;td&gt;Item3.1&lt;/td&gt;
+&lt;td&gt;Item4.1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Item1.2&lt;/td&gt;
+&lt;td&gt;Item2.2&lt;/td&gt;
+&lt;td&gt;Item3.2&lt;/td&gt;
+&lt;td&gt;Item4.2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+    </item>
+  </channel>
+</rss>
